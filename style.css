@@ -1,0 +1,19 @@
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+
+body{
+    background-color: wheat;
+    color: black;
+}
+
+.name_of_objects{
+    color : brown;
+}
+
+#camera{
+    border:rgb(0, 0, 0) 2px dashed;
+    width:350px;
+    height:350px;
+}
